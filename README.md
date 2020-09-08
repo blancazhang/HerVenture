@@ -1,2 +1,2 @@
 # HerVenture
-This is our application that promotes professional skills, networking, and opportunities for women.
+Find the full project description and process [here](https://blancazhang.github.io/herventure.html)
